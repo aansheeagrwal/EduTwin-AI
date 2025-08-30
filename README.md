@@ -85,8 +85,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ---
-## 📸 Screenshots
+## 📸 Demo Video
 
+https://github.com/user-attachments/assets/306b06fb-8a05-4fac-bba6-32bbb9abfa64
 ---
 
 ## 🤝 Contributing
