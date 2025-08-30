@@ -1,0 +1,136 @@
+{
+    "name": "Anshi Goyal",
+    "age": "21",
+    "interests": [
+        "Python",
+        "AI",
+        "Web Development"
+    ],
+    "skills": {
+        "Python": {
+            "level": 7,
+            "focus_today": false
+        },
+        "Machine Learning": {
+            "level": 5,
+            "focus_today": false
+        },
+        "communication": {
+            "level": 5,
+            "focus_today": false
+        },
+        "statistics": {
+            "level": 5,
+            "focus_today": false
+        }
+    },
+    "progress": {
+        "Data Scientist role": 50,
+        "python": 42
+    },
+    "last_updated": "2025-08-29",
+    "tasks": [],
+    "mood": {
+        "2025-08-29": [
+            {
+                "time": "14:00",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:00",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:00",
+                "mood": "\ud83d\ude10 Okay"
+            },
+            {
+                "time": "14:01",
+                "mood": "\ud83d\ude10 Okay"
+            },
+            {
+                "time": "14:01",
+                "mood": "\ud83d\ude10 Okay"
+            },
+            {
+                "time": "14:01",
+                "mood": "\ud83d\ude10 Okay"
+            },
+            {
+                "time": "14:01",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:01",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:03",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:04",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:05",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:05",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:05",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:05",
+                "mood": "\ud83d\ude10 Okay"
+            },
+            {
+                "time": "14:05",
+                "mood": "\ud83d\ude14 Bad"
+            },
+            {
+                "time": "14:05",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:05",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:05",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:05",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:05",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:05",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:14",
+                "mood": "\ud83d\ude0a Good"
+            },
+            {
+                "time": "14:23",
+                "mood": "\ud83d\ude10 Okay"
+            },
+            {
+                "time": "14:27",
+                "mood": "\ud83d\ude10 Okay"
+            }
+        ]
+    },
+    "points": 599,
+    "streak": 0,
+    "last_active": "2025-08-29"
+}
